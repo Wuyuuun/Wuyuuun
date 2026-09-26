@@ -20,6 +20,9 @@ part that teaches you something.
   — desktop automation for booking a public sports court: OAuth sign-in, browser control over
   the DevTools Protocol, request recording, and SMS verification. The captcha and the payment
   are deliberately left to a human.
+- **[bike-sharing-optimisation](https://github.com/Wuyuuun/bike-sharing-optimisation)** —
+  two-stage optimisation model for a shared-bike system in Taipa, Macau: mixed-integer station
+  siting and allocation in Gurobi, plus multi-truck rebalancing routing in PuLP.
 
 ## Background
 
