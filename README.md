@@ -16,6 +16,13 @@ part that teaches you something.
 - **[immc-2025](https://github.com/Wuyuuun/immc-2025)** — two Finalist entries in the 2025
   International Mathematical Modeling Challenge: global sports league scheduling (regression
   ranking, K-medoid clustering, tournament design) and data centre energy scheduling.
+- **[sports-facility-booking-assistant](https://github.com/Wuyuuun/sports-facility-booking-assistant)**
+  — desktop automation for booking a public sports court: OAuth sign-in, browser control over
+  the DevTools Protocol, request recording, and SMS verification. The captcha and the payment
+  are deliberately left to a human.
+- **[school-sports-registration](https://github.com/Wuyuuun/school-sports-registration)** —
+  Vue 3 and Vite application for a school sports day, with role-based access for students and
+  administrators, event registration, an approval workflow and an admin dashboard.
 
 ## Background
 
