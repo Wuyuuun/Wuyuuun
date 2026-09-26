@@ -20,9 +20,6 @@ part that teaches you something.
   — desktop automation for booking a public sports court: OAuth sign-in, browser control over
   the DevTools Protocol, request recording, and SMS verification. The captcha and the payment
   are deliberately left to a human.
-- **[school-sports-registration](https://github.com/Wuyuuun/school-sports-registration)** —
-  Vue 3 and Vite application for a school sports day, with role-based access for students and
-  administrators, event registration, an approval workflow and an admin dashboard.
 
 ## Background
 
